@@ -10,7 +10,7 @@ IoT Platforms & Networking Projects
 
 Test Automation & Scripting
 
-UI/UX Design & Prototyping
+UI/UX Design 
 
 Freelance Project Development
 
