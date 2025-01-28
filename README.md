@@ -5,12 +5,19 @@ During my career break, I expanded my horizons by working on freelance projects 
 🔑 Key Skills & Expertise:
 
 DevOps Tools (CI/CD Pipelines, Automation Frameworks)
+
 IoT Platforms & Networking Projects
+
 Test Automation & Scripting
+
 UI/UX Design & Prototyping
+
 Freelance Project Development
+
 Automated Expert Advisor Systems
+
 Strong Analytical & Problem-Solving Skills
+
 💡 Aspiration:
 To make an impactful return to the tech industry by specializing in AI technologies such as machine learning, natural language processing, and AI-driven automation. Eager to contribute to innovative projects that blend AI and automation to solve real-world challenges.
 
