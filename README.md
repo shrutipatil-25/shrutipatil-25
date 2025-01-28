@@ -1,7 +1,18 @@
- A dynamic professional with **3 years of experience in DevOps**, specializing in automation, infrastructure optimization, and CI/CD pipeline development. During a **4-year career gap**, I proactively enhanced my skillset by:  
-- **Freelancing on UI/UX projects**, focusing on user-centric designs and seamless interfaces.  
-- Exploring and mastering **AI technologies**, including the development of an **Expert Advisor for the share market**, applying machine learning to create predictive models and automated trading systems.  
+A passionate and versatile tech professional with 3+ years of experience as a DevOps Engineer at Atos Technology, combined with hands-on expertise in DevOps tools, test automation, IoT platforms, and networking projects. With a strong foundation in software engineering and a postgraduate specialization in Information Technology Infrastructure and Security (DITISS), I bring a unique blend of skills to drive innovation and efficiency in tech solutions.
 
-This blend of hands-on experience and continuous learning has allowed me to stay current with advancements in **AI, MLOps, and DevOps practices**, equipping me to integrate cutting-edge technologies into scalable and efficient solutions.  
+During my career break, I expanded my horizons by working on freelance projects in UI/UX design and automated Expert Advisors, showcasing my ability to adapt, learn, and innovate in diverse domains. Now, I am driven to transition into the field of Artificial Intelligence, where I aim to leverage my problem-solving abilities, automation experience, and a passion for cutting-edge technologies to create impactful AI-driven solutions.
 
-I am now excited to re-enter the workforce, leveraging my diverse expertise in **DevOps, AI workflows, and UI/UX design** to contribute to impactful and innovative projects. Committed to lifelong learning, I am passionate about delivering technology that balances functionality, scalability, and user experience.  
+🔑 Key Skills & Expertise:
+
+DevOps Tools (CI/CD Pipelines, Automation Frameworks)
+IoT Platforms & Networking Projects
+Test Automation & Scripting
+UI/UX Design & Prototyping
+Freelance Project Development
+Automated Expert Advisor Systems
+Strong Analytical & Problem-Solving Skills
+💡 Aspiration:
+To make an impactful return to the tech industry by specializing in AI technologies such as machine learning, natural language processing, and AI-driven automation. Eager to contribute to innovative projects that blend AI and automation to solve real-world challenges.
+
+📈 Let’s Connect:
+Open to collaborations, freelance opportunities, and discussions around AI, DevOps, and innovative tech solutions. Follow my journey and projects on LinkedIn and GitHub as I transition into the AI domain and continue to grow as a tech professional. 
